@@ -1,18 +1,6 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.ServiceProcess;
-using System.Text;
-using System.Threading.Tasks;
 using System.Timers;
 
 namespace RDPService
@@ -20,7 +8,7 @@ namespace RDPService
     public partial class Service1 : ServiceBase
     {
         private List<Connection> connections = new List<Connection>();
-        private string url = "http://localhost/WebSite1/Handler.ashx";
+        private string url = "http://localhost/Connections/Handler.ashx";
         private System.Timers.Timer timer;
         RDPMon rdpCons;
 

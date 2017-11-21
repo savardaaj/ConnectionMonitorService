@@ -1,0 +1,9 @@
+C:\Dev\ConnectionMonitorService\bin\Debug\RDPService.exe.config
+C:\Dev\ConnectionMonitorService\bin\Debug\RDPService.exe
+C:\Dev\ConnectionMonitorService\bin\Debug\RDPService.pdb
+C:\Dev\ConnectionMonitorService\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\ConnectionMonitorService\obj\Debug\ConnectionMonitorService.csprojResolveAssemblyReference.cache
+C:\Dev\ConnectionMonitorService\obj\Debug\RDPService.ProjectInstaller.resources
+C:\Dev\ConnectionMonitorService\obj\Debug\ConnectionMonitorService.csproj.GenerateResource.Cache
+C:\Dev\ConnectionMonitorService\obj\Debug\RDPService.exe
+C:\Dev\ConnectionMonitorService\obj\Debug\RDPService.pdb
