@@ -1,0 +1,305 @@
+﻿Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service MyNewService...
+Creating EventLog source MyNewService in log Application...
+Rolling back assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Restoring event log to previous state for source MyNewService.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Creating EventLog source RDPService in log Application...
+Rolling back assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Restoring event log to previous state for source RDPService.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Creating EventLog source RDPService in log Application...
+Rolling back assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Restoring event log to previous state for source RDPService.
+Uninstalling assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Removing EventLog source RDPService.
+Service RDPService is being removed from the system...
+Service RDPService was successfully removed from the system.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Uninstalling assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Removing EventLog source RDPService.
+Service RDPService is being removed from the system...
+Service RDPService was successfully removed from the system.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Uninstalling assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Removing EventLog source RDPService.
+Service RDPService is being removed from the system...
+Service RDPService was successfully removed from the system.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Uninstalling assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Removing EventLog source RDPService.
+Service RDPService is being removed from the system...
+Service RDPService was successfully removed from the system.
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Service RDPService has been successfully installed.
+Creating EventLog source RDPService in log Application...
+Committing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Installing service RDPService...
+Creating EventLog source RDPService in log Application...
+Rolling back assembly 'C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.InstallLog
+   assemblypath = C:\Dev\MyNewService\MyNewService\bin\Debug\RDPService.exe
+Restoring event log to previous state for source RDPService.
